@@ -7,3 +7,4 @@
 **Verilog Tip:**
 ```verilog
 wire a, b, c, d;
+hfoier
